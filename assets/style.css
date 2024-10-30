@@ -1,0 +1,7 @@
+#bpp-title-settings input[type="text"]{width:80%;}
+.bpp_custom_fields{cursor:pointer;}
+hr{clear:both; height:1px; background:#ccc;}
+#bpp-sitemap-form label{font-weight:normal;}
+#bpp-sitemap-form tr:first-child label{font-weight:bold;}
+#placeholders{display:none;padding:20px 0}
+h1{margin-bottom:20px}
